@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é João Guilherme
+- 👀 Eu estou interessado em aprender a programar e configurar softwares
+- 🌱 Eu estou aprendendo a programar rececntemente a linguagem de JavaScript e Scratch
+- 📫 Meu endereço de contato é joao.peteres.felipe@escola.pr.gov.br
